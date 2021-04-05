@@ -22,4 +22,4 @@ I need to:
 - [x] Finish this lab
 - [ ] graduate
 
-Here is a [picture of me](../GitHub-Pages/KEVINS-MUGSHOT).
+Here is a [picture of me](../GitHub-Pages/KEVINS-MUGSHOT.jpeg).
